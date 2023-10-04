@@ -1,5 +1,5 @@
 # windows-service-task-runner
-Aplicação Windows Service rodando tarefas em segundo plano utilizando a biblioteca Hangfire e gerando logs para monitoramento no EventViewer
+Aplicação Windows Service executando tarefas em segundo plano, utilizando a biblioteca Hangfire e gerando logs para monitoramento no EventViewer
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -7,7 +7,7 @@ Aplicação Windows Service rodando tarefas em segundo plano utilizando a biblio
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ## Sobre o projeto
-Este projeto mostra uma aplicação Windows Service rodando tarefas em segundo plano utilizando a biblioteca Hangfire e gerando logs para monitoramento no EventViewer.
+Este projeto mostra uma aplicação Windows Service executando tarefas em segundo plano, utilizando a biblioteca Hangfire e gerando logs para monitoramento no EventViewer.
 
 Parar criar e iniciar o Windows Service, execute como Administrador o arquivo em lote <code>install-windows-service.bat</code>. Para pausar e remover o Windows Service, execute como Administrador o arquivo em lote <code>uninstall-windows-service.bat</code>.
 
